@@ -16,12 +16,13 @@ This purpose of this project was to perform a school district analysis. To uphol
 
     After replacing Thomas High School's ninth grade math and reading scores, its average schools and passing percentages rose slightly. However, it held onto its rank of number two in the top schools based on overall passing percentage.
 
-        **Top 5 school ranking before removing Thomas High School's ninth grade math and reading scores:**
-<img src="Resources/THS_Before.png">
+    **Top 5 school ranking before removing Thomas High School's ninth grade math and reading scores:**
+    
+    <img src="Resources/THS_Before.png">
 
-        **Top 5 school ranking after removing Thomas High School's ninth grade math and reading scores:**
+    **Top 5 school ranking after removing Thomas High School's ninth grade math and reading scores:**
 
-<img src="Resources/THS_After.png">
+    <img src="Resources/THS_After.png">
 
 * How does replacing the ninth-grade scores affect the following:
 

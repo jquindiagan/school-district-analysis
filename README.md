@@ -34,17 +34,17 @@ This purpose of this project was to perform a school district analysis. To uphol
     - **Scores by school spending**
     There was no significant difference to scores by school spending The repeat analysis yielded the same results:
 
-        <img src="Resources/School_Spending.png" width=90% height=90%>
+        <img src="Resources/School_Spending.png">
 
     - **Scores by school size**
     There was no significant difference to scores by school size. The repeat analysis yielded the same results:
 
-        <img src="Resources/School_Size.png" width=80% height=80%>
+        <img src="Resources/School_Size.png">
 
     - **Scores by school type**
     There was no significant difference to scores by school type. The repeat analysis yielded the same results:
 
-        <img src="Resources/School_Type.png" width=80% height=80%>
+        <img src="Resources/School_Type.png">
 
 
 ## Summary

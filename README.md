@@ -8,11 +8,20 @@ This purpose of this project was to perform a school district analysis. To uphol
 
 ## Results
 
-* How is the district summary affected?
+* **How is the district summary affected?**
+Removal of potentially altered scores slightly lowered scores in the district summary:
 
-* How is the school summary affected?
+    First analysis:
+    <img src="Resources/District_Summary_Before.png">
 
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+    Second analysis:
+    <img src="Resources/District_Summary_After.png">
+
+* **How is the school summary affected?**
+
+    <img src="Resources/School_Summary.png">
+
+* **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
     After replacing Thomas High School's ninth grade math and reading scores, its average schools and passing percentages rose slightly. However, it held onto its rank of number two in the top schools based on overall passing percentage.
 
@@ -24,12 +33,12 @@ This purpose of this project was to perform a school district analysis. To uphol
 
     <img src="Resources/THS_After.png">
 
-* How does replacing the ninth-grade scores affect the following:
+* **How does replacing the ninth-grade scores affect the following:**
 
     - **Math and reading scores by grade**
     Replacing the ninth-grade scores yielded different results only for Thomas High School's ninth grade reading and math scores. The original analysis showed Thomas High School's ninth grade reading and math scores as 83.7% and 83.6%, respectively. The second analysis shows both results as "nan", as illustrated in the screenshot of the reading scores:
 
-        <img src="Resources/Reading_Scores_After.png" width=35% height=35% align=center> 
+        <img src="Resources/Reading_Scores_After.png" width=40% height=40%> 
 
     - **Scores by school spending**
     There was no significant difference to scores by school spending The repeat analysis yielded the same results:

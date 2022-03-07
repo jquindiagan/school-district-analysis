@@ -10,7 +10,7 @@ This purpose of this project was to perform a school district analysis. To uphol
 
 * **How is the district summary affected?**
 
-        Removal of potentially altered scores slightly lowered scores in the district summary:
+    Removal of potentially altered scores slightly lowered scores in the district summary:
 
     First analysis:
     <img src="Resources/District_Summary_Before.png">

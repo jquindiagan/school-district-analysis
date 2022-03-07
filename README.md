@@ -10,22 +10,22 @@ This purpose of this project was to perform a school district analysis. To uphol
 
 * **How is the district summary affected?**
 
-Removal of potentially altered scores slightly lowered scores in the district summary:
+        Removal of potentially altered scores slightly lowered scores in the district summary:
 
-First analysis:
+    First analysis:
     <img src="Resources/District_Summary_Before.png">
 
-Second analysis:
+    Second analysis:
     <img src="Resources/District_Summary_After.png">
 
 * **How is the school summary affected?**
 
-Thomas High School's scores were the only scores affected in the second analysis. All other school scores stayed the same:
+    Thomas High School's scores were the only scores affected in the second analysis. All other school scores stayed the same:
 
-First Analysis:
+    First Analysis:
     <img src="Resources/School_Summary_THS_Before.png"> 
 
-Second Analysis:
+    Second Analysis:
     <img src="Resources/School_Summary.png">
 
 * **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**

@@ -29,22 +29,22 @@ This purpose of this project was to perform a school district analysis. To uphol
     - **Math and reading scores by grade**
     Replacing the ninth-grade scores yielded different results only for Thomas High School's ninth grade reading and math scores. The original analysis showed Thomas High School's ninth grade reading and math scores as 83.7% and 83.6%, respectively. The second analysis shows both results as "nan", as illustrated in the screenshot of the reading scores:
 
-    <img src="Resources/Reading_Scores_After.png" width=35% height=35%> 
+        <img src="Resources/Reading_Scores_After.png" width=35% height=35% align=center> 
 
     - **Scores by school spending**
     There was no significant difference to scores by school spending The repeat analysis yielded the same results:
 
-    <img src="Resources/School_Spending.png" width=90% height=90%>
+        <img src="Resources/School_Spending.png" width=90% height=90%>
 
     - **Scores by school size**
     There was no significant difference to scores by school size. The repeat analysis yielded the same results:
 
-    <img src="Resources/School_Size.png" width=80% height=80%>
+        <img src="Resources/School_Size.png" width=80% height=80%>
 
     - **Scores by school type**
     There was no significant difference to scores by school type. The repeat analysis yielded the same results:
 
-    <img src="Resources/School_Type.png" width=80% height=80%>
+        <img src="Resources/School_Type.png" width=80% height=80%>
 
 
 ## Summary

@@ -9,6 +9,7 @@ This purpose of this project was to perform a school district analysis. To uphol
 ## Results
 
 * **How is the district summary affected?**
+
 Removal of potentially altered scores slightly lowered scores in the district summary:
 
     First analysis:
@@ -18,6 +19,7 @@ Removal of potentially altered scores slightly lowered scores in the district su
     <img src="Resources/District_Summary_After.png">
 
 * **How is the school summary affected?**
+
 Thomas High School's scores were the only scores affected in the second analysis. All other school scores stayed the same:
 
     First Analysis:

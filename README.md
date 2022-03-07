@@ -20,7 +20,7 @@ This purpose of this project was to perform a school district analysis. To uphol
 
 * **How is the school summary affected?**
 
-    Thomas High School's scores were the only scores affected in the second analysis. All other school scores stayed the same:
+    Thomas High School's school summary scores were the only scores affected in the second analysis, with passing percentages decreasing by ~30%. All other school scores stayed the same:
 
     First Analysis:
     <img src="Resources/School_Summary_THS_Before.png"> 
@@ -64,4 +64,4 @@ This purpose of this project was to perform a school district analysis. To uphol
 
 
 ## Summary
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
+After replacing Thomas High School's ninth grade math and reading scores, the district summary scores were slightly lowered and Thomas High School's scores decreased in the school summary, top 5 ranking scores, and ninth grade reading and math scores.
